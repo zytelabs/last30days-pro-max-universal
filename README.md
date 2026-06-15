@@ -15,10 +15,7 @@ fresh SERP discovery → evidence normalization → theme/entity taxonomy → in
 
 > Diagram source: [`docs/last30days-pipeline.excalidraw`](docs/last30days-pipeline.excalidraw) (open and edit at [excalidraw.com](https://excalidraw.com)).
 
-This is the general-purpose sibling of **Last30Days Pro Max**. The original is
-hard-wired to a fixed competitor taxonomy (Apify, Firecrawl, Bright Data…) for
-Zyte's market. This version strips that out: there's no built-in vendor list and
-nothing scraping-specific in the pipeline. You bring the `--topic`; the Zyte
+This is the general-purpose sibling of **Last30Days**. You bring the `--topic`; the Zyte
 Search API brings the freshest results from Google.
 
 ## Why this exists
