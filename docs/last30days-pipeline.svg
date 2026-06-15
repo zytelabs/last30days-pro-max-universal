@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 590" font-family="Helvetica,Arial,sans-serif">
+<rect width="980" height="590" fill="#ffffff"/>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#1e1e1e"/></marker></defs>
+<text x="60" y="48" font-size="22" font-weight="bold" fill="#1e1e1e">Last30Days Pro Max Universal — research any topic via the Zyte Search API</text>
+<line x1="285" y1="215" x2="355" y2="215" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="605" y1="215" x2="675" y2="215" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="800" y1="265" x2="800" y2="345" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="675" y1="395" x2="605" y2="395" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="355" y1="395" x2="285" y2="395" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="480" y1="135" x2="480" y2="165" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="800" y1="498" x2="800" y2="445" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="165" y1="443" x2="165" y2="497" stroke="#1e1e1e" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="60" y="170" width="220" height="90" rx="10" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+<text x="170.0" y="210.0" font-size="18" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Topic</text>
+<text x="170.0" y="230.0" font-size="18" font-weight="normal" text-anchor="middle" fill="#1e1e1e">+ angles + entities</text>
+<rect x="360" y="170" width="240" height="90" rx="10" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2"/>
+<text x="480.0" y="210.0" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e1e1e">Zyte Search API</text>
+<text x="480.0" y="230.0" font-size="18" font-weight="normal" text-anchor="middle" fill="#1e1e1e">SERP discovery</text>
+<rect x="680" y="170" width="240" height="90" rx="10" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+<text x="800.0" y="210.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Evidence normalization</text>
+<text x="800.0" y="230.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">source · entity · signal</text>
+<rect x="680" y="350" width="240" height="90" rx="10" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+<text x="800.0" y="390.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Taxonomy + clustering</text>
+<text x="800.0" y="410.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">SQLite deltas</text>
+<rect x="360" y="350" width="240" height="90" rx="10" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2"/>
+<text x="480.0" y="390.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Indexed report</text>
+<text x="480.0" y="410.0" font-size="16" font-weight="normal" text-anchor="middle" fill="#1e1e1e">brief.md + evidence IDs</text>
+<rect x="60" y="350" width="220" height="90" rx="10" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2"/>
+<text x="170.0" y="390.0" font-size="18" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Action list</text>
+<text x="170.0" y="410.0" font-size="18" font-weight="normal" text-anchor="middle" fill="#1e1e1e">what to do next</text>
+<rect x="360" y="72" width="240" height="60" rx="10" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<text x="480.0" y="107.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#1e1e1e">+ HN / Reddit connectors</text>
+<rect x="680" y="500" width="240" height="60" rx="10" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<text x="800.0" y="535.0" font-size="14" font-weight="normal" text-anchor="middle" fill="#1e1e1e">Zyte API /extract  ·  quotes</text>
+<rect x="60" y="500" width="220" height="60" rx="10" fill="#ffd8a8" stroke="#1e1e1e" stroke-width="2"/>
+<text x="170.0" y="535.0" font-size="14" font-weight="normal" text-anchor="middle" fill="#1e1e1e">MCP server  ·  agent tools</text>
+</svg>

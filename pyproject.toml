@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "last30days-pro-max-universal"
+version = "0.1.0"
+description = "Topic-general web listening engine for the agentic web, powered by the Zyte Search API."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Proprietary" }
+authors = [{ name = "Neha Setia" }]
+keywords = ["zyte", "research", "serp", "search-api", "mcp", "agentic", "listening"]
+# Intentionally dependency-free: the package is stdlib-only.
+dependencies = []
+classifiers = [
+    "Private :: Do Not Upload",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Intended Audience :: Developers",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+
+[project.scripts]
+last30days-universal = "last30days_universal.cli:main"
+last30days-universal-mcp = "last30days_universal.mcp_server:main"
+
+[tool.setuptools]
+packages = ["last30days_universal"]

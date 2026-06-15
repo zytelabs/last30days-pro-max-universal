@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-06-15-electric-vehicle-batteries",
+  "topic": "electric vehicle batteries",
+  "days": 30,
+  "domain": "google.com",
+  "max_results": 10,
+  "mock": true,
+  "entities": [
+    "Tesla",
+    "CATL",
+    "QuantumScape"
+  ],
+  "angles": [
+    "solid state",
+    "recycling"
+  ],
+  "sites": [],
+  "evidence_count": 150
+}

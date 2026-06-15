@@ -1,0 +1,1312 @@
+[
+  {
+    "query": "\"electric vehicle batteries\"",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\"",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries",
+          "url": "https://blog.example.com/electric-vehicle-batteries",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries worth it?",
+          "url": "https://www.reddit.com/r/all/comments/468095/electric-vehicle-batteries/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item?id=9250183",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries",
+          "snippet": "Reference docs covering electric vehicle batteries, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries",
+          "url": "https://www.technews.com/electric-vehicle-batteries",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries: open-source take on electric vehicle batteries",
+          "url": "https://github.com/example/electric-vehicle-batteries",
+          "snippet": "GitHub repo implementing electric vehicle batteries; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" latest",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" latest",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries latest",
+          "url": "https://blog.example.com/electric-vehicle-batteries-latest",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries latest with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries latest worth it?",
+          "url": "https://www.reddit.com/r/all/comments/13e9bb/electric-vehicle-batteries-latest/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries latest; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries latest",
+          "url": "https://news.ycombinator.com/item?id=11270843",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries latest and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries latest: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-latest",
+          "snippet": "Reference docs covering electric vehicle batteries latest, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries latest",
+          "url": "https://www.technews.com/electric-vehicle-batteries-latest",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries latest this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-latest: open-source take on electric vehicle batteries latest",
+          "url": "https://github.com/example/electric-vehicle-batteries-latest",
+          "snippet": "GitHub repo implementing electric vehicle batteries latest; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" news",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" news",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries news",
+          "url": "https://blog.example.com/electric-vehicle-batteries-news",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries news with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries news worth it?",
+          "url": "https://www.reddit.com/r/all/comments/323dc1/electric-vehicle-batteries-news/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries news; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries news",
+          "url": "https://news.ycombinator.com/item?id=11390630",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries news and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries news: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-news",
+          "snippet": "Reference docs covering electric vehicle batteries news, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries news",
+          "url": "https://www.technews.com/electric-vehicle-batteries-news",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries news this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-news: open-source take on electric vehicle batteries news",
+          "url": "https://github.com/example/electric-vehicle-batteries-news",
+          "snippet": "GitHub repo implementing electric vehicle batteries news; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" update",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" update",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries update",
+          "url": "https://blog.example.com/electric-vehicle-batteries-update",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries update with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries update worth it?",
+          "url": "https://www.reddit.com/r/all/comments/e8d7ae/electric-vehicle-batteries-update/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries update; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries update",
+          "url": "https://news.ycombinator.com/item?id=16499107",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries update and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries update: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-update",
+          "snippet": "Reference docs covering electric vehicle batteries update, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries update",
+          "url": "https://www.technews.com/electric-vehicle-batteries-update",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries update this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-update: open-source take on electric vehicle batteries update",
+          "url": "https://github.com/example/electric-vehicle-batteries-update",
+          "snippet": "GitHub repo implementing electric vehicle batteries update; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" release",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" release",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries release",
+          "url": "https://blog.example.com/electric-vehicle-batteries-release",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries release with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries release worth it?",
+          "url": "https://www.reddit.com/r/all/comments/377a3d/electric-vehicle-batteries-release/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries release; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries release",
+          "url": "https://news.ycombinator.com/item?id=146349",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries release and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries release: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-release",
+          "snippet": "Reference docs covering electric vehicle batteries release, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries release",
+          "url": "https://www.technews.com/electric-vehicle-batteries-release",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries release this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-release: open-source take on electric vehicle batteries release",
+          "url": "https://github.com/example/electric-vehicle-batteries-release",
+          "snippet": "GitHub repo implementing electric vehicle batteries release; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" roadmap",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" roadmap",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries roadmap",
+          "url": "https://blog.example.com/electric-vehicle-batteries-roadmap",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries roadmap with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries roadmap worth it?",
+          "url": "https://www.reddit.com/r/all/comments/7c3e7c/electric-vehicle-batteries-roadmap/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries roadmap; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries roadmap",
+          "url": "https://news.ycombinator.com/item?id=7251952",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries roadmap and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries roadmap: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-roadmap",
+          "snippet": "Reference docs covering electric vehicle batteries roadmap, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries roadmap",
+          "url": "https://www.technews.com/electric-vehicle-batteries-roadmap",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries roadmap this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-roadmap: open-source take on electric vehicle batteries roadmap",
+          "url": "https://github.com/example/electric-vehicle-batteries-roadmap",
+          "snippet": "GitHub repo implementing electric vehicle batteries roadmap; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" this month",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" this month",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries this month",
+          "url": "https://blog.example.com/electric-vehicle-batteries-this-month",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries this month with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries this month worth it?",
+          "url": "https://www.reddit.com/r/all/comments/c7bccd/electric-vehicle-batteries-this-month/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries this month; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries this month",
+          "url": "https://news.ycombinator.com/item?id=1464271",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries this month and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries this month: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-this-month",
+          "snippet": "Reference docs covering electric vehicle batteries this month, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries this month",
+          "url": "https://www.technews.com/electric-vehicle-batteries-this-month",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries this month this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-this-month: open-source take on electric vehicle batteries this month",
+          "url": "https://github.com/example/electric-vehicle-batteries-this-month",
+          "snippet": "GitHub repo implementing electric vehicle batteries this month; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" guide",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" guide",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries guide",
+          "url": "https://blog.example.com/electric-vehicle-batteries-guide",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries guide with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries guide worth it?",
+          "url": "https://www.reddit.com/r/all/comments/70cd26/electric-vehicle-batteries-guide/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries guide; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries guide",
+          "url": "https://news.ycombinator.com/item?id=8207885",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries guide and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries guide: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-guide",
+          "snippet": "Reference docs covering electric vehicle batteries guide, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries guide",
+          "url": "https://www.technews.com/electric-vehicle-batteries-guide",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries guide this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-guide: open-source take on electric vehicle batteries guide",
+          "url": "https://github.com/example/electric-vehicle-batteries-guide",
+          "snippet": "GitHub repo implementing electric vehicle batteries guide; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" tutorial",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" tutorial",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries tutorial",
+          "url": "https://blog.example.com/electric-vehicle-batteries-tutorial",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries tutorial with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries tutorial worth it?",
+          "url": "https://www.reddit.com/r/all/comments/0b1c82/electric-vehicle-batteries-tutorial/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries tutorial; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries tutorial",
+          "url": "https://news.ycombinator.com/item?id=3595958",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries tutorial and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries tutorial: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-tutorial",
+          "snippet": "Reference docs covering electric vehicle batteries tutorial, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries tutorial",
+          "url": "https://www.technews.com/electric-vehicle-batteries-tutorial",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries tutorial this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-tutorial: open-source take on electric vehicle batteries tutorial",
+          "url": "https://github.com/example/electric-vehicle-batteries-tutorial",
+          "snippet": "GitHub repo implementing electric vehicle batteries tutorial; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" review",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" review",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries review",
+          "url": "https://blog.example.com/electric-vehicle-batteries-review",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries review with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries review worth it?",
+          "url": "https://www.reddit.com/r/all/comments/f59c78/electric-vehicle-batteries-review/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries review; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries review",
+          "url": "https://news.ycombinator.com/item?id=13743954",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries review and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries review: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-review",
+          "snippet": "Reference docs covering electric vehicle batteries review, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries review",
+          "url": "https://www.technews.com/electric-vehicle-batteries-review",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries review this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-review: open-source take on electric vehicle batteries review",
+          "url": "https://github.com/example/electric-vehicle-batteries-review",
+          "snippet": "GitHub repo implementing electric vehicle batteries review; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" alternatives",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" alternatives",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries alternatives",
+          "url": "https://blog.example.com/electric-vehicle-batteries-alternatives",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries alternatives with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries alternatives worth it?",
+          "url": "https://www.reddit.com/r/all/comments/94c59f/electric-vehicle-batteries-alternatives/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries alternatives; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries alternatives",
+          "url": "https://news.ycombinator.com/item?id=11553761",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries alternatives and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries alternatives: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-alternatives",
+          "snippet": "Reference docs covering electric vehicle batteries alternatives, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries alternatives",
+          "url": "https://www.technews.com/electric-vehicle-batteries-alternatives",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries alternatives this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-alternatives: open-source take on electric vehicle batteries alternatives",
+          "url": "https://github.com/example/electric-vehicle-batteries-alternatives",
+          "snippet": "GitHub repo implementing electric vehicle batteries alternatives; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" best",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" best",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries best",
+          "url": "https://blog.example.com/electric-vehicle-batteries-best",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries best with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries best worth it?",
+          "url": "https://www.reddit.com/r/all/comments/e0a2b3/electric-vehicle-batteries-best/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries best; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries best",
+          "url": "https://news.ycombinator.com/item?id=5151767",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries best and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries best: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-best",
+          "snippet": "Reference docs covering electric vehicle batteries best, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries best",
+          "url": "https://www.technews.com/electric-vehicle-batteries-best",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries best this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-best: open-source take on electric vehicle batteries best",
+          "url": "https://github.com/example/electric-vehicle-batteries-best",
+          "snippet": "GitHub repo implementing electric vehicle batteries best; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" examples",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" examples",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries examples",
+          "url": "https://blog.example.com/electric-vehicle-batteries-examples",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries examples with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries examples worth it?",
+          "url": "https://www.reddit.com/r/all/comments/51cb82/electric-vehicle-batteries-examples/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries examples; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries examples",
+          "url": "https://news.ycombinator.com/item?id=11832391",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries examples and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries examples: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-examples",
+          "snippet": "Reference docs covering electric vehicle batteries examples, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries examples",
+          "url": "https://www.technews.com/electric-vehicle-batteries-examples",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries examples this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-examples: open-source take on electric vehicle batteries examples",
+          "url": "https://github.com/example/electric-vehicle-batteries-examples",
+          "snippet": "GitHub repo implementing electric vehicle batteries examples; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" \"solid state\"",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" \"solid state\"",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries solid state",
+          "url": "https://blog.example.com/electric-vehicle-batteries-solid-state",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries solid state with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries solid state worth it?",
+          "url": "https://www.reddit.com/r/all/comments/94d574/electric-vehicle-batteries-solid-state/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries solid state; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries solid state",
+          "url": "https://news.ycombinator.com/item?id=9111919",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries solid state and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries solid state: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-solid-state",
+          "snippet": "Reference docs covering electric vehicle batteries solid state, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries solid state",
+          "url": "https://www.technews.com/electric-vehicle-batteries-solid-state",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries solid state this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-solid-state: open-source take on electric vehicle batteries solid state",
+          "url": "https://github.com/example/electric-vehicle-batteries-solid-state",
+          "snippet": "GitHub repo implementing electric vehicle batteries solid state; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"electric vehicle batteries\" recycling",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=\"electric vehicle batteries\" recycling",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: electric vehicle batteries recycling",
+          "url": "https://blog.example.com/electric-vehicle-batteries-recycling",
+          "snippet": "A practitioner blog post exploring electric vehicle batteries recycling with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is electric vehicle batteries recycling worth it?",
+          "url": "https://www.reddit.com/r/all/comments/829143/electric-vehicle-batteries-recycling/",
+          "snippet": "Reddit thread weighing pros and cons of electric vehicle batteries recycling; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about electric vehicle batteries recycling",
+          "url": "https://news.ycombinator.com/item?id=13545216",
+          "snippet": "Hacker News discussion where developers debate electric vehicle batteries recycling and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "electric vehicle batteries recycling: official documentation",
+          "url": "https://docs.example.org/electric-vehicle-batteries-recycling",
+          "snippet": "Reference docs covering electric vehicle batteries recycling, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around electric vehicle batteries recycling",
+          "url": "https://www.technews.com/electric-vehicle-batteries-recycling",
+          "snippet": "News roundup covering recent releases and launches related to electric vehicle batteries recycling this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/electric-vehicle-batteries-recycling: open-source take on electric vehicle batteries recycling",
+          "url": "https://github.com/example/electric-vehicle-batteries-recycling",
+          "snippet": "GitHub repo implementing electric vehicle batteries recycling; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "Tesla \"electric vehicle batteries\"",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=Tesla \"electric vehicle batteries\"",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: Tesla electric vehicle batteries",
+          "url": "https://blog.example.com/tesla-electric-vehicle-batteries",
+          "snippet": "A practitioner blog post exploring Tesla electric vehicle batteries with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is Tesla electric vehicle batteries worth it?",
+          "url": "https://www.reddit.com/r/all/comments/6f027f/tesla-electric-vehicle-batteries/",
+          "snippet": "Reddit thread weighing pros and cons of Tesla electric vehicle batteries; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about Tesla electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item?id=2338068",
+          "snippet": "Hacker News discussion where developers debate Tesla electric vehicle batteries and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "Tesla electric vehicle batteries: official documentation",
+          "url": "https://docs.example.org/tesla-electric-vehicle-batteries",
+          "snippet": "Reference docs covering Tesla electric vehicle batteries, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around Tesla electric vehicle batteries",
+          "url": "https://www.technews.com/tesla-electric-vehicle-batteries",
+          "snippet": "News roundup covering recent releases and launches related to Tesla electric vehicle batteries this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/tesla-electric-vehicle-batteries: open-source take on Tesla electric vehicle batteries",
+          "url": "https://github.com/example/tesla-electric-vehicle-batteries",
+          "snippet": "GitHub repo implementing Tesla electric vehicle batteries; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "Tesla review",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=Tesla review",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: Tesla review",
+          "url": "https://blog.example.com/tesla-review",
+          "snippet": "A practitioner blog post exploring Tesla review with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is Tesla review worth it?",
+          "url": "https://www.reddit.com/r/all/comments/ae38ae/tesla-review/",
+          "snippet": "Reddit thread weighing pros and cons of Tesla review; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about Tesla review",
+          "url": "https://news.ycombinator.com/item?id=10812390",
+          "snippet": "Hacker News discussion where developers debate Tesla review and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "Tesla review: official documentation",
+          "url": "https://docs.example.org/tesla-review",
+          "snippet": "Reference docs covering Tesla review, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around Tesla review",
+          "url": "https://www.technews.com/tesla-review",
+          "snippet": "News roundup covering recent releases and launches related to Tesla review this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/tesla-review: open-source take on Tesla review",
+          "url": "https://github.com/example/tesla-review",
+          "snippet": "GitHub repo implementing Tesla review; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "Tesla alternatives",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=Tesla alternatives",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: Tesla alternatives",
+          "url": "https://blog.example.com/tesla-alternatives",
+          "snippet": "A practitioner blog post exploring Tesla alternatives with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is Tesla alternatives worth it?",
+          "url": "https://www.reddit.com/r/all/comments/12eae6/tesla-alternatives/",
+          "snippet": "Reddit thread weighing pros and cons of Tesla alternatives; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about Tesla alternatives",
+          "url": "https://news.ycombinator.com/item?id=9861830",
+          "snippet": "Hacker News discussion where developers debate Tesla alternatives and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "Tesla alternatives: official documentation",
+          "url": "https://docs.example.org/tesla-alternatives",
+          "snippet": "Reference docs covering Tesla alternatives, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around Tesla alternatives",
+          "url": "https://www.technews.com/tesla-alternatives",
+          "snippet": "News roundup covering recent releases and launches related to Tesla alternatives this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/tesla-alternatives: open-source take on Tesla alternatives",
+          "url": "https://github.com/example/tesla-alternatives",
+          "snippet": "GitHub repo implementing Tesla alternatives; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "CATL \"electric vehicle batteries\"",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=CATL \"electric vehicle batteries\"",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: CATL electric vehicle batteries",
+          "url": "https://blog.example.com/catl-electric-vehicle-batteries",
+          "snippet": "A practitioner blog post exploring CATL electric vehicle batteries with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is CATL electric vehicle batteries worth it?",
+          "url": "https://www.reddit.com/r/all/comments/82e2f1/catl-electric-vehicle-batteries/",
+          "snippet": "Reddit thread weighing pros and cons of CATL electric vehicle batteries; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about CATL electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item?id=10061351",
+          "snippet": "Hacker News discussion where developers debate CATL electric vehicle batteries and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "CATL electric vehicle batteries: official documentation",
+          "url": "https://docs.example.org/catl-electric-vehicle-batteries",
+          "snippet": "Reference docs covering CATL electric vehicle batteries, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around CATL electric vehicle batteries",
+          "url": "https://www.technews.com/catl-electric-vehicle-batteries",
+          "snippet": "News roundup covering recent releases and launches related to CATL electric vehicle batteries this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/catl-electric-vehicle-batteries: open-source take on CATL electric vehicle batteries",
+          "url": "https://github.com/example/catl-electric-vehicle-batteries",
+          "snippet": "GitHub repo implementing CATL electric vehicle batteries; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "CATL review",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=CATL review",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: CATL review",
+          "url": "https://blog.example.com/catl-review",
+          "snippet": "A practitioner blog post exploring CATL review with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is CATL review worth it?",
+          "url": "https://www.reddit.com/r/all/comments/b95ad4/catl-review/",
+          "snippet": "Reddit thread weighing pros and cons of CATL review; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about CATL review",
+          "url": "https://news.ycombinator.com/item?id=10693728",
+          "snippet": "Hacker News discussion where developers debate CATL review and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "CATL review: official documentation",
+          "url": "https://docs.example.org/catl-review",
+          "snippet": "Reference docs covering CATL review, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around CATL review",
+          "url": "https://www.technews.com/catl-review",
+          "snippet": "News roundup covering recent releases and launches related to CATL review this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/catl-review: open-source take on CATL review",
+          "url": "https://github.com/example/catl-review",
+          "snippet": "GitHub repo implementing CATL review; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "CATL alternatives",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=CATL alternatives",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: CATL alternatives",
+          "url": "https://blog.example.com/catl-alternatives",
+          "snippet": "A practitioner blog post exploring CATL alternatives with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is CATL alternatives worth it?",
+          "url": "https://www.reddit.com/r/all/comments/5975a0/catl-alternatives/",
+          "snippet": "Reddit thread weighing pros and cons of CATL alternatives; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about CATL alternatives",
+          "url": "https://news.ycombinator.com/item?id=3858247",
+          "snippet": "Hacker News discussion where developers debate CATL alternatives and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "CATL alternatives: official documentation",
+          "url": "https://docs.example.org/catl-alternatives",
+          "snippet": "Reference docs covering CATL alternatives, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around CATL alternatives",
+          "url": "https://www.technews.com/catl-alternatives",
+          "snippet": "News roundup covering recent releases and launches related to CATL alternatives this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/catl-alternatives: open-source take on CATL alternatives",
+          "url": "https://github.com/example/catl-alternatives",
+          "snippet": "GitHub repo implementing CATL alternatives; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "QuantumScape \"electric vehicle batteries\"",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=QuantumScape \"electric vehicle batteries\"",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: QuantumScape electric vehicle batteries",
+          "url": "https://blog.example.com/quantumscape-electric-vehicle-batteries",
+          "snippet": "A practitioner blog post exploring QuantumScape electric vehicle batteries with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is QuantumScape electric vehicle batteries worth it?",
+          "url": "https://www.reddit.com/r/all/comments/b6f0b0/quantumscape-electric-vehicle-batteries/",
+          "snippet": "Reddit thread weighing pros and cons of QuantumScape electric vehicle batteries; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about QuantumScape electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item?id=12196648",
+          "snippet": "Hacker News discussion where developers debate QuantumScape electric vehicle batteries and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "QuantumScape electric vehicle batteries: official documentation",
+          "url": "https://docs.example.org/quantumscape-electric-vehicle-batteries",
+          "snippet": "Reference docs covering QuantumScape electric vehicle batteries, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around QuantumScape electric vehicle batteries",
+          "url": "https://www.technews.com/quantumscape-electric-vehicle-batteries",
+          "snippet": "News roundup covering recent releases and launches related to QuantumScape electric vehicle batteries this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/quantumscape-electric-vehicle-batteries: open-source take on QuantumScape electric vehicle batteries",
+          "url": "https://github.com/example/quantumscape-electric-vehicle-batteries",
+          "snippet": "GitHub repo implementing QuantumScape electric vehicle batteries; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "QuantumScape review",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=QuantumScape review",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: QuantumScape review",
+          "url": "https://blog.example.com/quantumscape-review",
+          "snippet": "A practitioner blog post exploring QuantumScape review with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is QuantumScape review worth it?",
+          "url": "https://www.reddit.com/r/all/comments/5926ac/quantumscape-review/",
+          "snippet": "Reddit thread weighing pros and cons of QuantumScape review; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about QuantumScape review",
+          "url": "https://news.ycombinator.com/item?id=879926",
+          "snippet": "Hacker News discussion where developers debate QuantumScape review and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "QuantumScape review: official documentation",
+          "url": "https://docs.example.org/quantumscape-review",
+          "snippet": "Reference docs covering QuantumScape review, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around QuantumScape review",
+          "url": "https://www.technews.com/quantumscape-review",
+          "snippet": "News roundup covering recent releases and launches related to QuantumScape review this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/quantumscape-review: open-source take on QuantumScape review",
+          "url": "https://github.com/example/quantumscape-review",
+          "snippet": "GitHub repo implementing QuantumScape review; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "QuantumScape alternatives",
+    "payload": {
+      "status": "mock",
+      "url": "https://google.com/search?q=QuantumScape alternatives",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Deep dive: QuantumScape alternatives",
+          "url": "https://blog.example.com/quantumscape-alternatives",
+          "snippet": "A practitioner blog post exploring QuantumScape alternatives with concrete examples and tradeoffs.",
+          "displayedUrl": "blog.example.com"
+        },
+        {
+          "rank": 2,
+          "title": "Discussion: is QuantumScape alternatives worth it?",
+          "url": "https://www.reddit.com/r/all/comments/b61625/quantumscape-alternatives/",
+          "snippet": "Reddit thread weighing pros and cons of QuantumScape alternatives; lots of first-hand takes and complaints.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: a project about QuantumScape alternatives",
+          "url": "https://news.ycombinator.com/item?id=14356671",
+          "snippet": "Hacker News discussion where developers debate QuantumScape alternatives and link to source.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "QuantumScape alternatives: official documentation",
+          "url": "https://docs.example.org/quantumscape-alternatives",
+          "snippet": "Reference docs covering QuantumScape alternatives, setup, and common patterns.",
+          "displayedUrl": "docs.example.org"
+        },
+        {
+          "rank": 5,
+          "title": "Announcing new updates around QuantumScape alternatives",
+          "url": "https://www.technews.com/quantumscape-alternatives",
+          "snippet": "News roundup covering recent releases and launches related to QuantumScape alternatives this month.",
+          "displayedUrl": "technews.com"
+        },
+        {
+          "rank": 6,
+          "title": "example/quantumscape-alternatives: open-source take on QuantumScape alternatives",
+          "url": "https://github.com/example/quantumscape-alternatives",
+          "snippet": "GitHub repo implementing QuantumScape alternatives; recent releases, stars, and issues.",
+          "displayedUrl": "github.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "HN:electric vehicle batteries",
+    "payload": {
+      "status": "mock-hn",
+      "url": "https://hn.algolia.com/api/v1/search?query=electric vehicle batteries",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Discussion: getting started with electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item/422b0ac0",
+          "snippet": "Hacker News \u00b7 116 points, 63 comments. Practitioners share first-hand experience with electric vehicle batteries.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 2,
+          "title": "Is electric vehicle batteries actually worth it?",
+          "url": "https://news.ycombinator.com/item/34f65393",
+          "snippet": "Hacker News \u00b7 102 points, 266 comments. Debate over tradeoffs, alternatives, and gotchas around electric vehicle batteries.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 3,
+          "title": "Problems I hit using electric vehicle batteries",
+          "url": "https://news.ycombinator.com/item/a53b4e9f",
+          "snippet": "Hacker News \u00b7 215 points, 79 comments. Pain points, bugs, and workarounds for electric vehicle batteries.",
+          "displayedUrl": "news.ycombinator.com"
+        }
+      ]
+    }
+  },
+  {
+    "query": "Reddit:electric vehicle batteries",
+    "payload": {
+      "status": "mock-reddit",
+      "url": "https://www.google.com/search?q=site:reddit.com+electric vehicle batteries",
+      "fetchedAt": "2026-06-15T07:06:30Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Discussion: getting started with electric vehicle batteries",
+          "url": "https://reddit.com/r/all/comments/bf6dd20b",
+          "snippet": "r/all \u00b7 241 points, 129 comments. Practitioners share first-hand experience with electric vehicle batteries.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 2,
+          "title": "Is electric vehicle batteries actually worth it?",
+          "url": "https://reddit.com/r/all/comments/6f9e1cdb",
+          "snippet": "r/all \u00b7 161 points, 178 comments. Debate over tradeoffs, alternatives, and gotchas around electric vehicle batteries.",
+          "displayedUrl": "reddit.com/r/all"
+        },
+        {
+          "rank": 3,
+          "title": "Problems I hit using electric vehicle batteries",
+          "url": "https://reddit.com/r/all/comments/f2fa40d1",
+          "snippet": "r/all \u00b7 292 points, 270 comments. Pain points, bugs, and workarounds for electric vehicle batteries.",
+          "displayedUrl": "reddit.com/r/all"
+        }
+      ]
+    }
+  }
+]
