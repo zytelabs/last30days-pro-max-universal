@@ -22,10 +22,11 @@ Search API brings the freshest results from Google.
 
 The pattern from [`mvanhorn/last30days-skill`](https://github.com/mvanhorn/last30days-skill)
 is powerful — *recent public signal → normalized evidence → ranked clusters →
-grounded brief*. The original spreads across a dozen credentialed social APIs.
-This version makes **one reliable web-data layer — the Zyte Search API — the
-turbo-boost**: a single key turns "research the last 30 days of X" into a
-repeatable, evidence-backed pipeline for literally any X.
+grounded brief*. The original spans roughly a dozen different sources, several
+zero-config and some behind keys, each its own integration. This version makes
+**one reliable web-data layer — the Zyte Search API — the turbo-boost**: a
+single key turns "research the last 30 days of X" into a repeatable,
+evidence-backed pipeline for literally any X.
 
 ## What you get
 
