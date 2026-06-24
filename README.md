@@ -41,6 +41,8 @@ For any topic, one command produces an inspectable artifact pack:
 | `run_metadata.json` | Run parameters and counts |
 | `extracted_pages.jsonl` | Page-level quotes (with `--extract`) |
 
+See a **real** run (live Zyte Search API, not mock) in [`examples/live-ai-coding-agents/brief.md`](examples/live-ai-coding-agents/brief.md), and a credential-free mock run alongside it in [`examples/`](examples/).
+
 ## Quickstart
 
 No credentials needed for the demo — `--mock` produces deterministic sample data.

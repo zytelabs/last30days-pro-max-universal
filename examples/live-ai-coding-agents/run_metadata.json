@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-06-24-ai-coding-agents",
+  "topic": "AI coding agents",
+  "days": 30,
+  "domain": "google.com",
+  "max_results": 10,
+  "mock": false,
+  "entities": [
+    "Cursor",
+    "Claude Code",
+    "Copilot"
+  ],
+  "angles": [
+    "pricing",
+    "benchmarks"
+  ],
+  "sites": [],
+  "evidence_count": 69
+}

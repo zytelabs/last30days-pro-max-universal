@@ -1,0 +1,599 @@
+[
+  {
+    "query": "\"AI coding agents\"",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22",
+      "fetchedAt": "2026-06-24T12:15:43.418085568Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:14:27.526629261Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+          "snippet": "Jan 2, 2026 \u2014 A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more\u2014with guidance ...",
+          "displayedUrl": "https://www.faros.ai \u203a blog \u203a best-ai-coding-agents-2026"
+        },
+        {
+          "rank": 2,
+          "url": "https://martinterhaak.medium.com/best-ai-coding-agents-summer-2025-c4d20cd0c846",
+          "title": "Best AI Coding Agents Summer 2025 - Martin ter Haak - Medium",
+          "snippet": "In this blog post, I'll be sharing my experience and providing a ranking of what I think are the best AI coding agents right now. 6. GitHub ...Read more",
+          "displayedUrl": "40+ likes  \u00b7  9 months ago"
+        },
+        {
+          "rank": 3,
+          "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1nhoppq/whats_your_take_on_the_best_ai_coding_agents/",
+          "title": "What's your take on the best AI Coding Agents?",
+          "snippet": "Hey all, I\u2019m curious if anyone here has hands-on experience with the different AI coding tools/CLIs \u2014 specifically Claude Code, Gemini CLI, and Codex ...",
+          "displayedUrl": "60+ comments  \u00b7  9 months ago"
+        },
+        {
+          "rank": 4,
+          "url": "https://www.augmentcode.com/tools/best-ai-coding-agent-desktop-apps",
+          "title": "9 Best AI Coding Agent Desktop Apps in 2026 (Ranked by ...",
+          "snippet": "Mar 16, 2026 \u2014 AI coding agents are moving out of IDE sidebars into desktop apps, CLIs, and cloud sandboxes, which makes long-horizon tasks and parallel ...Read more",
+          "displayedUrl": "https://www.augmentcode.com \u203a Tools"
+        },
+        {
+          "rank": 5,
+          "url": "https://axify.io/blog/the-best-ai-coding-assistants-a-full-comparison-of-17-tools",
+          "title": "The Best AI Coding Assistants: 20 Tools Reviewed for 2026",
+          "snippet": "15 hours ago \u2014 AI coding agents can take a higher-level task, inspect a repository, propose a plan, edit multiple files, run commands, and return work for ...Read more",
+          "displayedUrl": "https://axify.io \u203a blog \u203a the-best-ai-coding-assistants-a-f..."
+        },
+        {
+          "rank": 6,
+          "url": "https://render.com/blog/ai-coding-agents-benchmark",
+          "title": "Testing AI coding agents (2025): Cursor vs. Claude ...",
+          "snippet": "Aug 12, 2025 \u2014 We benchmark AI coding agents (Cursor, Claude Code, Gemini CLI, OpenAI Codex) on production codebases in 2025, comparing setup speed, cost, ...",
+          "displayedUrl": "https://render.com \u203a blog \u203a ai-coding-agents-benchmark"
+        },
+        {
+          "rank": 7,
+          "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+          "title": "10 things I learned from burning myself out with AI coding ...",
+          "snippet": "Jan 19, 2026 \u2014 1. People are still necessary. Even with the best AI coding agents available today, humans remain essential to the software development process.Read more",
+          "displayedUrl": "https://arstechnica.com \u203a Category: Biz & IT"
+        },
+        {
+          "rank": 8,
+          "url": "https://codegen.com/best-ai-coding-agents/",
+          "title": "Best AI Coding Agents in 2026: Ranked and Compared",
+          "snippet": "The best AI coding agents ranked by the team that built agent orchestration infrastructure. Cursor, Claude Code, Devin, Codegen, and more \u2014 compared on what ...",
+          "displayedUrl": "https://codegen.com \u203a Home"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" latest",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+latest",
+      "fetchedAt": "2026-06-24T12:15:54.481697119Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:15:44.445596183Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://axify.io/blog/the-best-ai-coding-assistants-a-full-comparison-of-17-tools",
+          "title": "The Best AI Coding Assistants: 20 Tools Reviewed for 2026",
+          "snippet": "15 jam yang lalu \u2014 AI coding agents can take a higher-level task, inspect a repository, propose a plan, edit multiple files, run commands, and return work for ...",
+          "displayedUrl": "https://axify.io \u203a blog \u203a the..."
+        },
+        {
+          "rank": 2,
+          "url": "https://codegen.com/best-ai-coding-agents/",
+          "title": "Best AI Coding Agents in 2026: Ranked and Compared",
+          "snippet": "The best AI coding agents ranked by the team that built agent orchestration infrastructure. Cursor, Claude Code, Devin, Codegen, and more \u2014 compared on what ...",
+          "displayedUrl": "https://codegen.com \u203a best-..."
+        },
+        {
+          "rank": 3,
+          "url": "https://www.firecrawl.dev/blog/best-ai-coding-agents",
+          "title": "Best AI Coding Agents in 2026: Harness, Cost, and ...",
+          "snippet": "10 Jun 2026 \u2014 A sourced comparison of the 8 best AI coding agents in 2026, ranked on harness depth, remote agents, token cost, and benchmark accuracy.",
+          "displayedUrl": "https://www.firecrawl.dev \u203a ..."
+        },
+        {
+          "rank": 4,
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents (June 2026): Scored Leaderboard",
+          "snippet": "6 hari yang lalu \u2014 The Scored Leaderboard: AI Coding Agents (June 2026) ; Claude Code / Opus 4.8, 88.6%, 69.2%, 78.9%, $17/mo Pro (annual) ; Gemini CLI / Gemini 3.1 ...",
+          "displayedUrl": "https://www.morphllm.com \u203a ..."
+        },
+        {
+          "rank": 5,
+          "url": "https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a",
+          "title": "The State of AI Coding Agents (2026)",
+          "snippet": "The Top 7 AI Coding Agents in 2026 ... With that architectural context in mind, we can look at the leading systems shaping the current landscape.",
+          "displayedUrl": "20+ suka  \u00b7  3 bulan yang lalu"
+        },
+        {
+          "rank": 6,
+          "url": "https://terminaltrove.com/ai-coding-agents/",
+          "title": "Terminal AI Coding Agents",
+          "snippet": "From autonomous code generation to intelligent pair programming, terminal AI coding agents bring the power of AI right to your command line no IDE required.",
+          "displayedUrl": "https://terminaltrove.com \u203a ..."
+        },
+        {
+          "rank": 7,
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+          "snippet": "2 Jan 2026 \u2014 A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more\u2014with guidance ...",
+          "displayedUrl": "https://www.faros.ai \u203a blog"
+        },
+        {
+          "rank": 8,
+          "url": "https://mightybot.ai/blog/coding-ai-agents-for-accelerating-engineering-workflows/",
+          "title": "Best AI Coding Agents in 2026, Ranked",
+          "snippet": "29 Apr 2026 \u2014 The best AI coding agents of 2026, ranked by agentic coding performance, workflow depth, code quality, and real-world adoption.",
+          "displayedUrl": "https://mightybot.ai \u203a blog"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" news",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+news",
+      "fetchedAt": "2026-06-24T12:16:05.752978957Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:15:55.238885705Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader/",
+          "title": "OpenAI named a Leader in enterprise coding agents by ...",
+          "snippet": "22 Mei 2026 \u2014 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise",
+          "displayedUrl": "https://openai.com \u203a index"
+        },
+        {
+          "rank": 2,
+          "url": "https://news.ycombinator.com/item?id=47545748",
+          "title": "Some uncomfortable truths about AI coding agents",
+          "snippet": "28 Mar 2026 \u2014 > There are four main issues contributing to the blanket ban on AI coding agents in my professional work: skill atrophy, artificially low cost, ...",
+          "displayedUrl": "https://news.ycombinator.com \u203a ..."
+        },
+        {
+          "rank": 3,
+          "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+          "title": "10 things I learned from burning myself out with AI coding ...",
+          "snippet": "19 Jan 2026 \u2014 People are still necessary. Even with the best AI coding agents available today, humans remain essential to the software development process.",
+          "displayedUrl": "https://arstechnica.com \u203a 10..."
+        },
+        {
+          "rank": 4,
+          "url": "https://hai.stanford.edu/news/ai-coding-agents-fail-at-teamwork",
+          "title": "AI Coding Agents Fail at Teamwork | Stanford HAI",
+          "snippet": "1 Jun 2026 \u2014 AI Coding Agents Fail at Teamwork ... Two models working together perform worse than one alone, exposing a critical gap in artificial intelligence ...",
+          "displayedUrl": "https://hai.stanford.edu \u203a news"
+        },
+        {
+          "rank": 5,
+          "url": "https://www.uipath.com/blog/product-and-updates/introducing-uipath-for-coding-agents",
+          "title": "From AI speed to enterprise reliability",
+          "snippet": "12 Mei 2026 \u2014 What has changed is who writes the code. AI coding agents have gone from autocomplete assistants to autonomous partners in less than two years.",
+          "displayedUrl": "https://www.uipath.com \u203a blog"
+        },
+        {
+          "rank": 6,
+          "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
+          "title": "Coding agents in the social sciences",
+          "snippet": "oleh T Claude \u2014 The way we study the economy and politics, for example, is increasingly through analysis decisions made in part by AI coding agents. We plan ...",
+          "displayedUrl": "https://www.anthropic.com \u203a ..."
+        },
+        {
+          "rank": 7,
+          "url": "https://agentic.ai/best/coding-agents",
+          "title": "18 Best AI Coding Agents in 2026",
+          "snippet": "Best AI Coding Agents in 2026. 18 tools reviewed \u00b7 Updated June 2026. Reviewed by the Agentic.ai editorial team using our 36-point agenticness rubric.",
+          "displayedUrl": "https://agentic.ai \u203a best \u203a cod..."
+        },
+        {
+          "rank": 8,
+          "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+          "title": "Agentjacking Attack Tricks AI Coding Agents Into Running ...",
+          "snippet": "12 Jun 2026 \u2014 Researchers warn Agentjacking can abuse Sentry errors to make AI coding agents run malicious code on developer machines.",
+          "displayedUrl": "https://thehackernews.com \u203a ..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" update",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+update",
+      "fetchedAt": "2026-06-24T12:16:26.942983779Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:16:06.589588853Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://www.firecrawl.dev/blog/best-ai-coding-agents",
+          "title": "Best AI Coding Agents in 2026: Harness, Cost, and ...",
+          "snippet": "10 Jun 2026 \u2014 A sourced comparison of the 8 best AI coding agents in 2026, ranked on harness depth, remote agents, token cost, and benchmark accuracy.",
+          "displayedUrl": "https://www.firecrawl.dev \u203a blog \u203a best-ai-coding-agents"
+        },
+        {
+          "rank": 2,
+          "url": "https://martinterhaak.medium.com/best-ai-coding-agents-summer-2025-c4d20cd0c846",
+          "title": "Best AI Coding Agents Summer 2025 - Martin ter Haak - Medium",
+          "snippet": "In this blog post, I'll be sharing my experience and providing a ranking of what I think are the best AI coding agents right now. 6. GitHub ...Read more",
+          "displayedUrl": "40+ likes  \u00b7  9 months ago"
+        },
+        {
+          "rank": 3,
+          "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents (June 2026): Scored Leaderboard",
+          "snippet": "Best AI Coding Agents (June 2026): The Scored Leaderboard, Updated After Fable 5 \u00b7 1. OpenAI Codex \u00b7 2. Claude Code (Anthropic) \u00b7 3. Gemini CLI \u00b7 4.Read more",
+          "displayedUrl": "https://www.morphllm.com \u203a best-ai-coding-agents-2026"
+        },
+        {
+          "rank": 4,
+          "url": "https://agents.md/",
+          "title": "AGENTS.md",
+          "snippet": "Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.Read more",
+          "displayedUrl": "https://agents.md"
+        },
+        {
+          "rank": 5,
+          "url": "https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch",
+          "title": "8 AI Coding Agents That Actually Ship Production Code in ...",
+          "snippet": "30 Apr 2026 \u2014 TL;DR: AI coding agents are past the demo phase \u2014 the ones worth using in 2026 edit real files, run real tests, and ask before they touch your ...Read more",
+          "displayedUrl": "https://dev.to \u203a sonotommy \u203a 8-ai-coding-agents-that-a..."
+        },
+        {
+          "rank": 6,
+          "url": "https://www.uipath.com/blog/product-and-updates/introducing-uipath-for-coding-agents",
+          "title": "From AI speed to enterprise reliability",
+          "snippet": "12 May 2026 \u2014 What has changed is who writes the code. AI coding agents have gone from autocomplete assistants to autonomous partners in less than two years.Read more",
+          "displayedUrl": "https://www.uipath.com \u203a blog \u203a product-and-updates \u203a i..."
+        },
+        {
+          "rank": 7,
+          "url": "https://blog.stackademic.com/5-ai-coding-agents-that-actually-ship-production-code-in-2026-f4954e98bc05",
+          "title": "5 AI Coding Agents That Actually Ship Production Code in ...",
+          "snippet": "5 Jun 2026 \u2014 AI coding agents have moved from autocomplete to autonomous execution \u2014 they plan, code, test, and iterate independently, which is why 73% of ...Read more",
+          "displayedUrl": "https://blog.stackademic.com \u203a 5-ai-coding-agents-that-..."
+        },
+        {
+          "rank": 8,
+          "url": "https://github.com/topics/ai-agents",
+          "title": "ai-agents \u00b7 GitHub Topics",
+          "snippet": "... ai coding-agents agent-skills vibe-coding figma-alternative hermes-agent claude-design claude-code-for-design codex-design cursor-design. Updated tomorrow ...Read more",
+          "displayedUrl": "https://github.com \u203a topics \u203a ai-agents"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" release",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+release",
+      "fetchedAt": "2026-06-24T12:16:52.919191185Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:16:28.099792837Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://www.seangoedecke.com/ai-agents-are-commoditized/",
+          "title": "AI coding agents are already commoditized",
+          "snippet": "25 Jun 2025 \u2014 All of a sudden, it's the year of AI coding agents. Claude released Claude Code, OpenAI released their Codex agent, GitHub released its own ...",
+          "displayedUrl": "https://www.seangoedecke.com \u203a ..."
+        },
+        {
+          "rank": 2,
+          "url": "https://www.reddit.com/r/OpenAI/comments/1m54yjx/all_ai_coding_agents_you_know/",
+          "title": "All AI Coding Agents You Know : r/OpenAI",
+          "snippet": "All AI Coding Agents You Know \u00b7 Cursor (AI-native IDE) \u00b7 IDX/Firebase Studio (Google's web IDE) \u00b7 Replit Agent \u00b7 GitHub Copilot \u00b7 Google Jules \u00b7 Codex.",
+          "displayedUrl": "20+ komentar  \u00b7  11 bulan yang lalu"
+        },
+        {
+          "rank": 3,
+          "url": "https://martinterhaak.medium.com/best-ai-coding-agents-summer-2025-c4d20cd0c846",
+          "title": "Best AI Coding Agents Summer 2025 - Martin ter Haak - Medium",
+          "snippet": "In this blog post, I'll be sharing my experience and providing a ranking of what I think are the best AI coding agents right now. 6. GitHub ...",
+          "displayedUrl": "40+ suka  \u00b7  9 bulan yang lalu"
+        },
+        {
+          "rank": 4,
+          "url": "https://agents.md/",
+          "title": "AGENTS.md",
+          "snippet": "Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.",
+          "displayedUrl": "https://agents.md"
+        },
+        {
+          "rank": 5,
+          "url": "https://toloka.ai/blog/ai-coding-agents-what-they-are-how-they-work-and-how-to-build-one/",
+          "title": "AI coding agents: what they are, how they work, and how to ...",
+          "snippet": "28 Mei 2025 \u2014 AI coding agents are no longer limited to autocomplete. Today's tools can plan, write, test, and debug code with a surprising degree of autonomy.",
+          "displayedUrl": "https://toloka.ai \u203a blog \u203a ai-..."
+        },
+        {
+          "rank": 6,
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+          "snippet": "2 Jan 2026 \u2014 A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more\u2014with guidance ...",
+          "displayedUrl": "https://www.faros.ai \u203a blog"
+        },
+        {
+          "rank": 7,
+          "url": "https://www.uipath.com/blog/product-and-updates/introducing-uipath-for-coding-agents",
+          "title": "From AI speed to enterprise reliability",
+          "snippet": "12 Mei 2026 \u2014 What has changed is who writes the code. AI coding agents have gone from autocomplete assistants to autonomous partners in less than two years.",
+          "displayedUrl": "https://www.uipath.com \u203a blog"
+        },
+        {
+          "rank": 8,
+          "url": "https://realpython.com/ai-coding-agents-guide/",
+          "title": "AI Coding Agents Guide: A Map of the Four Workflow Types",
+          "snippet": "29 Apr 2026 \u2014 AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development.",
+          "displayedUrl": "https://realpython.com \u203a ai-..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" roadmap",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+roadmap",
+      "fetchedAt": "2026-06-24T12:19:04.301140101Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:18:49.083120667Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1sps50u/ai_agent_roadmap_for_developers_who_can_code_but/",
+          "title": "AI agent roadmap for developers who can code but have ...",
+          "snippet": "So I put together a roadmap that covers the full journey in the right order. ... AI coding agents \u00b7 I made a complete reference guide for building ...",
+          "displayedUrl": "10+ komentar  \u00b7  2 bulan yang lalu"
+        },
+        {
+          "rank": 2,
+          "url": "https://ai-devkit.com/roadmap/",
+          "title": "Roadmap - AI DevKit",
+          "snippet": "Our roadmap shows what's next for making AI coding agents plan before code, remember project decisions, verify work, and share one workflow across tools. In ...",
+          "displayedUrl": "https://ai-devkit.com \u203a road..."
+        },
+        {
+          "rank": 3,
+          "url": "https://codepick.dev/en/guides/ai-coding-agents-2026-roadmap/",
+          "title": "AI Coding Agents in 2026: A Practical Roadmap from ...",
+          "snippet": "1 Jun 2026 \u2014 AI Coding Agents in 2026: A Practical Roadmap from Autocomplete to Cloud Teammates. As of June 2026, AI coding tools are moving from ...",
+          "displayedUrl": "https://codepick.dev \u203a guides"
+        },
+        {
+          "rank": 4,
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+          "snippet": "2 Jan 2026 \u2014 A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more\u2014with guidance ...",
+          "displayedUrl": "https://www.faros.ai \u203a blog"
+        },
+        {
+          "rank": 5,
+          "url": "https://madhukarkumar.medium.com/the-secret-recipe-of-powerful-ai-coding-agents-b094f8216322",
+          "title": "The secret recipe of powerful AI coding Agents",
+          "snippet": "The secret recipe of powerful AI coding Agents The latest Black ... Your insights serve as a valuable roadmap for developers.. More ...",
+          "displayedUrl": "150+ suka  \u00b7  1 tahun yang lalu"
+        },
+        {
+          "rank": 6,
+          "url": "https://www.aha.io/blog/integrate-aha-develop-with-ai-coding-agents-including-github-copilot-and-cursor",
+          "title": "Integrate Aha! Develop With AI Coding Agents, Including ...",
+          "snippet": "11 Feb 2026 \u2014 Integrate Aha! Develop with AI coding agents, including GitHub Copilot and Cursor \u00b7 Embed AI into your development workflow \u00b7 How to get started.",
+          "displayedUrl": "https://www.aha.io \u203a blog"
+        },
+        {
+          "rank": 7,
+          "url": "https://arxiv.org/html/2603.05344v1",
+          "title": "Building AI Coding Agents for the Terminal",
+          "snippet": "5 Mar 2026 \u2014 The development of terminal-centric AI coding agents draws upon a rich and rapidly evolving body of work spanning code intelligence, autonomous ...",
+          "displayedUrl": "https://arxiv.org \u203a html"
+        },
+        {
+          "rank": 8,
+          "url": "https://coderabbit.ai/blog/issue-planner-collaborative-planning-for-teams-with-ai-agents",
+          "title": "Issue Planner: Collaborative planning for teams using ...",
+          "snippet": "10 Feb 2026 \u2014 With AI coding agents, planning can no longer live in people's heads, scattered tickets, or half-remembered conversations. It has to be ...",
+          "displayedUrl": "https://coderabbit.ai \u203a blog"
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" this month",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+this+month",
+      "fetchedAt": "2026-06-24T12:21:30.970407752Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:21:00.930335787Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://dev.to/matthewhou/the-real-cost-of-running-ai-coding-agents-its-not-what-you-think-2oon",
+          "title": "The Real Cost of Running AI Coding Agents (It's Not What ...",
+          "snippet": "22 Feb 2026 \u2014 Everyone talks about AI coding agents saving time. Nobody talks about the hidden costs that show up after the first week.",
+          "displayedUrl": "https://dev.to \u203a matthewhou"
+        },
+        {
+          "rank": 2,
+          "url": "https://codegen.com/best-ai-coding-agents/",
+          "title": "Best AI Coding Agents in 2026: Ranked and Compared",
+          "snippet": "The best AI coding agents ranked by the team that built agent orchestration infrastructure. Cursor, Claude Code, Devin, Codegen, and more \u2014 compared on what ...",
+          "displayedUrl": "https://codegen.com \u203a best-..."
+        },
+        {
+          "rank": 3,
+          "url": "https://medium.com/@jerome.o.diaz/ai-coding-agents-a-practical-field-report-a-few-months-later-46a247c95ec0",
+          "title": "AI Coding Agents: A Practical Field Report, a few months ...",
+          "snippet": "A few months ago I wrote about AI coding agents and concluded they were best treated as a capable junior developer. I still believe that.",
+          "displayedUrl": "1 bulan yang lalu"
+        },
+        {
+          "rank": 4,
+          "url": "https://www.reddit.com/r/OpenAI/comments/1m54yjx/all_ai_coding_agents_you_know/",
+          "title": "All AI Coding Agents You Know : r/OpenAI",
+          "snippet": "All AI Coding Agents You Know \u00b7 Cursor (AI-native IDE) \u00b7 IDX/Firebase Studio (Google's web IDE) \u00b7 Replit Agent \u00b7 GitHub Copilot \u00b7 Google Jules \u00b7 Codex.",
+          "displayedUrl": "20+ komentar  \u00b7  11 bulan yang lalu"
+        },
+        {
+          "rank": 5,
+          "url": "https://www.youtube.com/watch?v=sslJ9ovlfhM",
+          "title": "Best AI coding Agents with some interesting results | Sonnet ...",
+          "snippet": "There has been so much in the month of September. I do my best to ... Best AI coding Agents with some interesting results | Sonnet 4.5 ...",
+          "displayedUrl": "36\u00a0rb+ penayangan  \u00b7  8 bulan yang lalu"
+        },
+        {
+          "rank": 6,
+          "url": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+          "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+          "snippet": "2 Jan 2026 \u2014 A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more\u2014with guidance ...",
+          "displayedUrl": "https://www.faros.ai \u203a blog"
+        },
+        {
+          "rank": 7,
+          "url": "https://news.ycombinator.com/item?id=45914307",
+          "title": "I spent $638 on AI coding agents in 6 weeks.",
+          "snippet": "I spent $638 on AI coding agents in 6 weeks. 1 point by nthypes 6 months ago ... October: Started the month thinking \"I'll stay within the Pro limits, no problem.",
+          "displayedUrl": "https://news.ycombinator.com \u203a ..."
+        },
+        {
+          "rank": 8,
+          "url": "https://realpython.com/ai-coding-agents-guide/",
+          "title": "AI Coding Agents Guide: A Map of the Four Workflow Types",
+          "snippet": "29 Apr 2026 \u2014 AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development.",
+          "displayedUrl": "https://realpython.com \u203a ai-..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "\"AI coding agents\" guide",
+    "payload": {
+      "status": "success",
+      "url": "https://www.google.com/search?q=%22AI+coding+agents%22+guide",
+      "fetchedAt": "2026-06-24T12:21:45.354686209Z",
+      "meta": {
+        "requestedAt": "2026-06-24T12:21:32.837417024Z"
+      },
+      "organicResults": [
+        {
+          "rank": 1,
+          "url": "https://realpython.com/ai-coding-agents-guide/",
+          "title": "AI Coding Agents Guide: A Map of the Four Workflow Types",
+          "snippet": "29 Apr 2026 \u2014 AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development.",
+          "displayedUrl": "https://realpython.com \u203a ai-..."
+        },
+        {
+          "rank": 2,
+          "url": "https://dev.to/aarongustafson/optimizing-your-codebase-for-ai-coding-agents-4ndm",
+          "title": "Optimizing Your Codebase for AI Coding Agents",
+          "snippet": "23 Okt 2025 \u2014 So if you're working with AI coding agents \u2014 or planning to \u2014 invest in your docs and tooling. Don't think of it as wasted time \u201cwriting for ...",
+          "displayedUrl": "https://dev.to \u203a optimizing-..."
+        },
+        {
+          "rank": 3,
+          "url": "https://agents.md/",
+          "title": "AGENTS.md",
+          "snippet": "Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.",
+          "displayedUrl": "https://agents.md"
+        },
+        {
+          "rank": 4,
+          "url": "https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b",
+          "title": "Building With AI Coding Agents: Best Practices for ...",
+          "snippet": "AI coding agents are not replacing developers; they are amplifying human capability. The best engineers are learning how to direct, guide, and ...",
+          "displayedUrl": "4 suka  \u00b7  8 bulan yang lalu"
+        },
+        {
+          "rank": 5,
+          "url": "https://addyosmani.com/blog/good-spec/",
+          "title": "How to write a good spec for AI agents",
+          "snippet": "13 Jan 2026 \u2014 Learn how to write effective specifications for AI coding agents to improve clarity, focus, and productivity in your AI-driven development ...",
+          "displayedUrl": "https://addyosmani.com \u203a g..."
+        },
+        {
+          "rank": 6,
+          "url": "https://www.firecrawl.dev/blog/best-ai-coding-agents",
+          "title": "Best AI Coding Agents in 2026: Harness, Cost, and ...",
+          "snippet": "10 Jun 2026 \u2014 A sourced comparison of the 8 best AI coding agents in 2026, ranked on harness depth, remote agents, token cost, and benchmark accuracy.",
+          "displayedUrl": "https://www.firecrawl.dev \u203a ..."
+        },
+        {
+          "rank": 7,
+          "url": "https://nextjs.org/docs/app/guides/ai-agents",
+          "title": "Guides: AI Coding Agents",
+          "snippet": "20 Mar 2026 \u2014 Learn how to configure your Next.js project so AI coding agents use up-to-date documentation instead of outdated training data.",
+          "displayedUrl": "https://nextjs.org \u203a docs \u203a app"
+        },
+        {
+          "rank": 8,
+          "url": "https://www.vybe.build/blog/what-are-ai-coding-agents",
+          "title": "What Are AI Coding Agents? The Complete Guide for 2026",
+          "snippet": "AI coding agents don't suggest code. They read your codebase, plan changes, write the code, run the tests, and fix what breaks. Here's what they are, ...",
+          "displayedUrl": "https://www.vybe.build \u203a blog"
+        }
+      ]
+    }
+  },
+  {
+    "query": "HN:AI coding agents",
+    "payload": {
+      "status": "ok",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI+coding+agents&tags=story&hitsPerPage=5&numericFilters=created_at_i%3E1779711705",
+      "fetchedAt": "2026-06-24T12:21:46Z",
+      "organicResults": [
+        {
+          "rank": 1,
+          "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+          "url": "https://news.ycombinator.com/item?id=48319968",
+          "snippet": "67 points, 1 comments on Hacker News. Links to https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 2,
+          "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+          "url": "https://news.ycombinator.com/item?id=48631043",
+          "snippet": "24 points, 13 comments on Hacker News. Links to https://github.com/0xroylee/ponytrail.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 3,
+          "title": "The UI problem of AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48348930",
+          "snippet": "9 points, 0 comments on Hacker News. Links to https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents.",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: VAEN \u2013 Package and import portable AI coding-agent Harnesses",
+          "url": "https://news.ycombinator.com/item?id=48300485",
+          "snippet": "8 points, 3 comments on Hacker News. Links to https://github.com/sjhalani7/vaen. Hi HN, I built VAEN (an open source CLI) because I kept running into a boring problem with AI coding-agent workflows: the setup becomes useful, but then it is hard to move.<p>A good, useful agentic ha",
+          "displayedUrl": "news.ycombinator.com"
+        },
+        {
+          "rank": 5,
+          "title": "Show HN: PMB \u2013 local-first memory for AI coding agents over MCP",
+          "url": "https://news.ycombinator.com/item?id=48631169",
+          "snippet": "7 points, 6 comments on Hacker News. Links to https://github.com/oleksiijko/pmb/blob/main/README.md. How it works:\n- Storage uses one SQLite database file, plus a local LanceDB index of vectors. No need for a server, cloud services, or any API keys.\n- Retrieval is a hybrid approach using BM25 (rank-b",
+          "displayedUrl": "news.ycombinator.com"
+        }
+      ]
+    }
+  }
+]
