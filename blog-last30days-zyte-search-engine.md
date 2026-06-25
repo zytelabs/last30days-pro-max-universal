@@ -10,6 +10,10 @@ Alt text suggestion: A search API node feeding a four-stage research pipeline fr
 Placement: hero
 -->
 
+![Last30Days Pro Max Universal pipeline: a topic plus optional angles and entities flows into the Zyte Search API for SERP discovery, then evidence normalization, then taxonomy and SQLite deltas, then an indexed report and an action list, with Hacker News and Reddit connectors and page extraction feeding in.](docs/last30days-pipeline.svg)
+
+*The whole engine at a glance: one search API feeds discovery, and everything downstream is normalization, taxonomy, and reporting.*
+
 ## Why a search API is the turbo-boost
 
 The pattern of summarizing recent public signal is not new. This engine is directly inspired by Matt van Horn's [last30days skill](https://github.com/mvanhorn/last30days-skill), an agent skill that researches a topic by aggregating recent signal across roughly a dozen sources, from Reddit and Hacker News to prediction markets and web search, and it keeps that project's core insight while deliberately swapping the spine. The original reaches its sources through a separate, platform-specific integration for each one, several of which work with no key while others unlock with credentials, whereas this version routes discovery through a single web-data layer, and that is the change that makes it general enough to point at any topic. The tradeoff with any many-connectors design is that every source is its own integration to keep working as platforms change, so the maintenance surface grows with the source list, whereas leaning on one search API keeps that surface to a single reliable call.
@@ -117,6 +121,25 @@ Placement: inline
 -->
 
 Because the brief is plain markdown with stable evidence IDs, it is just as readable to a person skimming it as it is to a model summarizing it. That dual-audience property is the quiet payoff of doing the structuring work up front instead of asking an LLM to improvise a summary from raw HTML.
+
+## What a real run looks like
+
+To make this concrete, here is an actual run against the live Zyte API search capability (not mock data), on the topic *AI coding agents*, tracking three named tools and adding the Hacker News connector:
+
+```bash
+python3 -m last30days_universal.cli --topic "AI coding agents" \
+  --entities "Cursor,Claude Code,Copilot" --angles "pricing,benchmarks" --hn
+```
+
+One command produced an indexed brief from **69 evidence items**, with every entity attributed from real titles and URLs, and sources spread across blog, GitHub, Hacker News, Reddit, docs, news, and video. A few of the real results it surfaced and classified:
+
+- **Cursor**, comparison: "Testing AI coding agents: Cursor vs. Claude" on `render.com/blog/ai-coding-agents-benchmark`
+- **Cursor**, comparison: "Best AI Coding Agents: Ranked and Compared" on `codegen.com/best-ai-coding-agents`
+- **Claude Code**, leaderboard: "Best AI Coding Agents (June 2026): Scored Leaderboard" on `morphllm.com`
+- **Claude Code**, community: "What's your take on the best AI Coding Agents?" on `reddit.com/r/ChatGPTCoding`
+- A developer benchmark writeup on `faros.ai/blog/best-ai-coding-agents-2026`
+
+Every one of those is a row in the evidence index with an ID, a source type, a signal type, and a recommended action, so nothing in the summary floats free of a source. The whole artifact pack (brief, evidence as JSONL and CSV, the exact queries, the raw payloads, run metadata) lands in one folder, ready to read or feed to another tool.
 
 ## Watching what changes
 
